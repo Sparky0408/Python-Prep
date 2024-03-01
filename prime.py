@@ -9,7 +9,7 @@ for i in range(2, get_number):
     if get_number % i == 0:
         is_prime = False
 
-if is_prime == True:
+if is_prime == True :
     print(get_number, "is prime number")
 
 else:
