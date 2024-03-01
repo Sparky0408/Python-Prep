@@ -1,6 +1,5 @@
-def sum_all (*args):
+def sum_all(*args):
     return sum(args)
 
 
-print(sum_all(2,3,4123,32))
-
+print(sum_all(2, 3, 4123, 32))

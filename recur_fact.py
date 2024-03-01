@@ -4,7 +4,6 @@ def fact(num):
     else:
         return num * fact(num - 1)
 
-
 number = int(input("enter the number: "))
 
 result = fact(number)
